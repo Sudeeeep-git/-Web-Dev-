@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registration Page</title>
+    <link rel="stylesheet" href="style.css">
     <style>
         /* Tag Selector */
       p{
@@ -27,7 +28,14 @@
      <p id="para1">This is a para 1</p>
      <p class="para2">This is a para 2</p>
      <p class="para2">This is a para 3</p>
+          
      <p>This is a para 4</p>
+
+     <div class="goat">
+        <p>
+            I am a goat
+        </p>
+     </div>
 </body>
 </html>
 
