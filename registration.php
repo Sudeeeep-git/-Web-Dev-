@@ -22,6 +22,7 @@
     </style>
 </head>
 <body>
+    <section>
     <h1>Registration Page</h1>
      <!-- Inline css 
     <p style="color:red">Welcome to registration page</p>
@@ -89,6 +90,7 @@
             <input type="submit" id="submit" name="submit" value="Register">
         </div>
      </form>
+     </section>
 </body>
 </html>
 
