@@ -1,14 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Student Managemnet System</title>
+    <link rel="stylesheet" href="./assets/adminlte.css">
 </head>
-
-<body>
-    <h1>I am a form</h1>
-</body>
-
-</html>
+<body class="layout-fixed bg-body-tertiary">
